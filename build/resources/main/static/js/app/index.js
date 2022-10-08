@@ -57,7 +57,7 @@ var main = {
             alert(JSON.stringify(error));
         });
     },
-
+    
     delete : function () {
         var id = $('#id').val();
 
